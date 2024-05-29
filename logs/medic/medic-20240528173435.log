@@ -1,0 +1,1 @@
+2024-05-28 17:34:40,681 - medic - INFO - db:user {'success_status': True, 'message': 'Data created successfully', 'data': <app.core.users.models.model_user.UserModel object at 0x0000022739494DA0>, 'doc_length': 1}

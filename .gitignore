@@ -1,0 +1,10 @@
+*/_pycache_/*
+*.pyc
+*.pyo
+*.so
+*.swp
+*.zip
+*.egg-info
+*.dist-info
+*.egg
+*/logs/*
